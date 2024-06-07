@@ -1,4 +1,4 @@
-# Nonprofit Applicant Funding Prediction Analysis
+# Applicant Success Prediction Analysis
 
 ## Overview of the Analysis
 
